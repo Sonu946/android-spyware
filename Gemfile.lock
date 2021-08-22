@@ -307,7 +307,7 @@ DEPENDENCIES
   responders
   sass-rails (>= 6)
   selenium-webdriver
-  sqlite3
+  pg
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 3.3.0)
